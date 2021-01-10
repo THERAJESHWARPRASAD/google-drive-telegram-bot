@@ -4,7 +4,7 @@ class config:
     API_HASH = "91d43947d1b905b0c46cda7eac366398"
     DATABASE_URL = "postgres://vtkxvnjxdjyued:305f8d84eaeb525789a98fc9ad475d9ea5349aa75cf50e0227fb15ad9bfb7031@ec2-52-205-61-60.compute-1.amazonaws.com:5432/d5hkn3mo6kl6is"
     SUDO_USERS = "879416858" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "t.me/moviekingdom"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
